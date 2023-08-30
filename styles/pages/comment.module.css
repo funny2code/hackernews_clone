@@ -1,0 +1,10 @@
+.comment_content_container {
+  width: 100%;
+  padding: 15px 5px 15px 0px;
+}
+
+.comment_get_data_error_msg {
+  margin: 8px;
+  font-size: 13.5px;
+  color: #828282;
+}
